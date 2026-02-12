@@ -1,7 +1,5 @@
 # Production Workflow Control System
 
-+# Система управления производственным рабочим процессом
-
 ## What this application is
 **Production Workflow Control System** is a music production management platform that brings together:
 - tracks and their versions,
